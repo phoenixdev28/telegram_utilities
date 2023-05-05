@@ -4,6 +4,7 @@
 
 ## Contact me
 - Telegram - [@phoenixdev28](https://t.me/phoenixdev28)
+- Email - [phoenixdev@tutanota.com](mailto:phoenixdev@tutanota.com)
 
 <br>
 
@@ -38,7 +39,7 @@ This can be used on windows. If you need to run this on a mac or a Linux please 
 
 # Telegram Group Members Adder
 
-<img src="./images/tg_members_adder.png" alt="tg_members_adder.png" border="0">
+<img src="./images/tg_members_adder.png" alt="tg_members_adder.png">
 
 ## What is this ❔
 The Telegram Members Adder is a robust automation tool that allows users to efficiently add members to their Telegram groups and channels. With its advanced features, this Telegram Members Adder simplifies the process of gathering members from different groups and channels.
@@ -68,7 +69,7 @@ This can be used on windows If you need to run this on a mac or a Linux please c
 
 # Telegram Message Forwarder
 
-<img src="./images/tg_message_forwarder.png" alt="tg_message_forwarder.png" border="0">
+<img src="./images/tg_message_forwarder.png" alt="tg_message_forwarder.png">
 
 ## What is this ❔
 Introducing the ultimate Telegram message forwarder app! This powerful tool allows you to easily manage your messages by allowing you to get messages from multiple groups and channels and forward them to multiple groups and channels.
@@ -97,7 +98,7 @@ This can be used on windows. If you need to run this on mac or Linux, please con
 
 # Telegram Account Creator
 
-<img src="./images/tg_account_creator.png" alt="screenshot" style="border-radius: 1%">
+<img src="./images/tg_account_creator.png" alt="screenshot">
 
 ## What is this ❔
 Introducing our latest Telegram Account Creator App! This app is especially designed for those who need multiple Telegram accounts for business or personal use. With this app, you can easily create Telegram accounts with just a click of a button.
