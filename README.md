@@ -4,6 +4,7 @@
 
 ## Contact me
 - Telegram - [@phoenixdev28](https://t.me/phoenixdev28)
+- Discord - phoenixdev#2123
 - Email - [phoenixdev@tutanota.com](mailto:phoenixdev@tutanota.com)
 
 <br>
