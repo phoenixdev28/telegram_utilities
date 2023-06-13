@@ -118,3 +118,5 @@ Don't waste any more time with the hassle of creating Telegram accounts manually
 
 ## How to buy ❔
 This can be used on windows. If you need to run this on a mac or a Linux please contact me before buying. If you have your specific requirements I can make the modifications according to that. The price of this tool would be $35. Contact me to buy.
+
+
